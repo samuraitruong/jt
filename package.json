@@ -1,0 +1,25 @@
+{
+  "name": "jt",
+  "version": "1.0.0",
+  "description": "Just a quick cli to replace the json value in the file",
+  "main": "index.js",
+  "bin": {
+    "jt": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuraitruong/jt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuraitruong/jt/issues"
+  },
+  "homepage": "https://github.com/samuraitruong/jt#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}
